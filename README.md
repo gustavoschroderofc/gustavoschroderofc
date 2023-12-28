@@ -1,35 +1,13 @@
-<!DOCTYPE html>
-<html lang="pt-BR">
-<head>
-    <meta charset="UTF-8">
-    <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Gustavo Schroder - SEO e Marketing</title>
-</head>
-<body>
+Meu nome é Gustavo Schroder, tenho 23 anos e sou apaixonado por SEO e Marketing. Atualmente, trabalho na área, dedicando-me a otimizar conteúdo e estratégias para melhorar a visibilidade online.
 
-    <header>
-        <h1>Gustavo Schroder</h1>
-    </header>
+Além disso, sou o criador e administrador de alguns sites especializados:
 
-    <section id="resumo">
-        <p>Gosto de trabalhar com SEO e Marketing, tenho 23 anos.</p>
-    </section>
+Grupos de WhatsApp
+Grupos de Telegram
+Grupos de Discord
+Grupos de Facebook
+Portal Sobre Jogos
 
-    <section id="trabalho">
-        <h2>Trabalho</h2>
-        <p>Atualmente, atuo na área de SEO e Marketing.</p>
-    </section>
+Cada site tem seu foco, proporcionando aos usuários diferentes experiências e interações. No "Portal Sobre Jogos", por exemplo, compartilho informações e análises sobre o fascinante mundo dos jogos.
 
-    <section id="sites">
-        <h2>Sites</h2>
-        <ul>
-            <li><a href="https://www.gruposdewhatss.com.br/" target="_blank">Grupos de WhatsApp</a></li>
-            <li><a href="https://www.gruposdewhatss.com.br/telegram" target="_blank">Grupos de Telegram</a></li>
-            <li><a href="https://www.gruposdewhatss.com.br/discord" target="_blank">Grupos de Discord</a></li>
-            <li><a href="https://www.gruposdewhatss.com.br/facebook" target="_blank">Grupos de Facebook</a></li>
-            <li><a href="https://www.portalsobrejogos.com.br/" target="_blank">Portal Sobre Jogos</a></li>
-        </ul>
-    </section>
-
-</body>
-</html>
+Estou sempre em busca de novos desafios e oportunidades para aprimorar minhas habilidades em SEO e Marketing. Se você se interessa por essas áreas ou pelos temas dos meus sites, ficarei feliz em conectar-me e trocar experiências.
