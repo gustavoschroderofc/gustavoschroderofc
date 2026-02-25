@@ -1,17 +1,9 @@
-Meu nome é Gustavo Schroder, tenho 23 anos e sou apaixonado por SEO e Marketing. Atualmente, trabalho na área, dedicando-me a otimizar conteúdo e estratégias para melhorar a visibilidade online.
+<p>Meu nome é <strong>Gustavo Schroder</strong>, tenho 23 anos e trabalho com <strong>SEO e marketing digital</strong>, com foco em crescimento orgânico e otimização de sites para o Google. Gosto de testar estratégias na prática e desenvolver projetos próprios, sempre buscando melhorar posicionamento, tráfego e experiência do usuário.</p>
 
-Além disso, sou o criador e administrador de alguns sites especializados:
+<p>Sou criador de projetos voltados para comunidades online e conteúdo digital. Entre eles está o <a href="https://www.gruposdewhatss.com.br" target="_blank">Grupos de WhatsApp</a>, onde organizo listas de grupos públicos por categorias, e também o <a href="https://www.gruposdetelegram.com.br" target="_blank">Grupos de Telegram</a>, um site dedicado à indexação de grupos ativos com links atualizados.</p>
 
-[Grupos de WhatsApp](https://www.gruposdewhatss.com.br)
+<p>Também sou responsável pelo <a href="https://www.portalsobrejogos.com.br" target="_blank">Portal Sobre Jogos</a>, um projeto voltado ao universo dos games, onde publico conteúdos informativos e acompanho novidades do setor.</p>
 
-[Grupos de Telegram](https://www.gruposdewhatss.com.br/telegram)
+<p>Trabalho diariamente com <strong>SEO técnico, criação de sites e estratégias de tráfego orgânico</strong>, sempre buscando novas formas de melhorar resultados e construir projetos sólidos a longo prazo.</p>
 
-[Grupos de Discord](https://www.gruposdewhatss.com.br/discord)
-
-[Grupos de Facebook](https://www.gruposdewhatss.com.br/facebook)
-
-[Portal Sobre Jogos](https://www.portalsobrejogos.com.br)
-
-Cada site tem seu foco, proporcionando aos usuários diferentes experiências e interações. No "Portal Sobre Jogos", por exemplo, compartilho informações e análises sobre o fascinante mundo dos jogos.
-
-Estou sempre em busca de novos desafios e oportunidades para aprimorar minhas habilidades em SEO e Marketing. Se você se interessa por essas áreas ou pelos temas dos meus sites, ficarei feliz em conectar-me e trocar experiências.
+<p>Estou sempre aberto a aprender coisas novas e trocar experiências com pessoas que também trabalham com SEO, marketing digital e desenvolvimento web.</p>
