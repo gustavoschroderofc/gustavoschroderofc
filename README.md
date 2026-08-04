@@ -1,11 +1,13 @@
-<p>I'm <strong>Gustavo Schroder</strong>, a Brazilian <strong>SEO specialist and web developer</strong> focused on organic growth and technical SEO.</p>
+<p>I'm <strong>Gustavo Schroder</strong>, a Brazilian <strong>SEO specialist and web developer</strong> focused on technical SEO, organic growth, and building high-performance websites.</p>
 
-<p>Meu nome é <strong>Gustavo Schroder</strong>, tenho 23 anos e trabalho com <strong>SEO e marketing digital</strong>, com foco em crescimento orgânico e otimização de sites para o Google. Gosto de testar estratégias na prática e desenvolver projetos próprios, sempre buscando melhorar posicionamento, tráfego e experiência do usuário.</p>
+<p>Meu nome é <strong>Gustavo Schroder</strong>, tenho 23 anos e trabalho com <strong>SEO, marketing digital e desenvolvimento web</strong>. Meu foco é aumentar a visibilidade de sites no Google por meio de estratégias de crescimento orgânico, otimização técnica e melhoria da experiência do usuário.</p>
 
-<p>Sou criador de projetos voltados para comunidades online e conteúdo digital. Entre eles está o <a href="https://www.gruposdewhatss.com.br" target="_blank">Grupos de WhatsApp</a>, onde organizo listas de grupos públicos por categorias, e também o <a href="https://www.gruposdetelegram.com.br" target="_blank">Grupos de Telegram</a>, um site dedicado à indexação de grupos ativos com links atualizados.</p>
+<p>Gosto de testar estratégias na prática, analisar resultados e desenvolver projetos próprios. Busco constantemente novas formas de melhorar posicionamento, tráfego, desempenho e autoridade digital.</p>
 
-<p>Também sou responsável pelo <a href="https://www.portalsobrejogos.com.br" target="_blank">Portal Sobre Jogos</a>, um projeto voltado ao universo dos games, onde publico conteúdos informativos e acompanho novidades do setor.</p>
+<p>Sou criador de projetos voltados para comunidades online e produção de conteúdo digital. Entre eles está o <a href="https://www.gruposdewhatss.com.br" target="_blank" rel="noopener noreferrer">Grupos de WhatsApp</a>, plataforma que organiza e disponibiliza listas de grupos públicos divididos por categorias.</p>
 
-<p>Trabalho diariamente com <strong>SEO técnico, criação de sites e estratégias de tráfego orgânico</strong>, sempre buscando novas formas de melhorar resultados e construir projetos sólidos a longo prazo.</p>
+<p>Também desenvolvo projetos relacionados a comunidades no Telegram e ao universo dos games, com produção de conteúdos informativos, organização de informações e acompanhamento de novidades do setor.</p>
 
-<p>Estou sempre aberto a aprender coisas novas e trocar experiências com pessoas que também trabalham com SEO, marketing digital e desenvolvimento web.</p>
+<p>No dia a dia, trabalho com <strong>SEO técnico, criação e otimização de sites, conteúdo estratégico e tráfego orgânico</strong>, sempre com o objetivo de construir projetos consistentes, escaláveis e preparados para crescer no longo prazo.</p>
+
+<p>Estou sempre aberto a aprender, compartilhar conhecimento e trocar experiências com profissionais das áreas de SEO, marketing digital e desenvolvimento web.</p>
