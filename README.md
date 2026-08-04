@@ -1,6 +1,6 @@
 <p>I'm <strong>Gustavo Schroder</strong>, a Brazilian <strong>SEO specialist and web developer</strong> focused on technical SEO, organic growth, and building high-performance websites.</p>
 
-<p>Meu nome é <strong>Gustavo Schroder</strong>, tenho 23 anos e trabalho com <strong>SEO, marketing digital e desenvolvimento web</strong>. Meu foco é aumentar a visibilidade de sites no Google por meio de estratégias de crescimento orgânico, otimização técnica e melhoria da experiência do usuário.</p>
+<p>Meu nome é <strong>Gustavo Schroder</strong>, tenho 26 anos e trabalho com <strong>SEO, marketing digital e desenvolvimento web</strong>. Meu foco é aumentar a visibilidade de sites no Google por meio de estratégias de crescimento orgânico, otimização técnica e melhoria da experiência do usuário.</p>
 
 <p>Gosto de testar estratégias na prática, analisar resultados e desenvolver projetos próprios. Busco constantemente novas formas de melhorar posicionamento, tráfego, desempenho e autoridade digital.</p>
 
